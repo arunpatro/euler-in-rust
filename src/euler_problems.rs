@@ -94,3 +94,17 @@ fn problem21(n: i64) -> i64 {
     }
     out_sum
 }
+
+pub fn problem25() {
+    let n = 1000;
+    let i = 1
+
+
+    // Solve recurrence relation 
+    let phi1 = (1 + (5.0).sqrt() ) / 2
+
+    return phi1
+    c1 + c2 = 0
+    c1 * x1 + c2 * x2 = 1
+    c1 * x1 * x1 + c2 * x2 * x2 = 2
+}
